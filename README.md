@@ -23,19 +23,19 @@ https://www.fitnesspointapp.com/en/pro
 
 Tela Principal
 
-![index](/home/borserog/index.png)
+![index](index.png)
 
 Tela de login
 
-![login](/home/borserog/fitM8/login.png)
+![login](login.png)
 
 Painel
 
-![painel](/home/borserog/fitM8/painel.png)
+![painel](painel.png)
 
 Buscador
 
-![buscador](/home/borserog/fitM8/buscador.png)
+![buscador](buscador.png)
 
 
 
