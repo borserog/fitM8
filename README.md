@@ -2,6 +2,7 @@
 
 - Gabriel Borsero Estrela Bernardo (20181370004)
 - Thiago da Silva Lima (20182370020)
+- Carlos Manoel Nunes (20182370038)
 
 # Descrição do Projeto
 
